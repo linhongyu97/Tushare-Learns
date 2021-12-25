@@ -54,7 +54,7 @@ plot_stock_daily_close_price('000001.SZ')
 
 效果图如下：
 
-![img]()
+![image-20211225213748603](https://s2.loli.net/2021/12/25/oBS2e6ZpPHmwiFn.png)
 
 
 
