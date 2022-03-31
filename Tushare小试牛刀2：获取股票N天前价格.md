@@ -79,7 +79,3 @@ stock_incr('2022-03-01')
 ```
 
 
-
-结果示例：
-
-![image-20220331194611977](../AppData/Roaming/Typora/typora-user-images/image-20220331194611977.png)
